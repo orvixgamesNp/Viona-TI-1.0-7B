@@ -1,2 +1,12 @@
-# Viona-TI-1.0-7B
-Viona TI 1.0 7B • Yazılım, oyun geliştirme ve akıllı otomasyon için Orvix Games AI tarafından geliştirilen yeni nesil yapay zeka modeli.
+# Viona TI 1.0 7B
+
+Kurulum:
+
+pip install -r requirements.txt
+
+Calistir:
+
+python main.py
+
+Model:
+orvixgamesai/Viona-TI-1.0-7B
